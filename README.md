@@ -77,15 +77,6 @@ java PongGame
 
 ---
 
-## 📌 Melhorias Futuras
-
-- 🎵 Adição de efeitos sonoros
-- 🤖 Modo CPU (inteligência artificial simples)
-- 🏆 Melhor de 3 ou melhor de 5 partidas
-- 🌐 Suporte para multiplayer online
-
----
-
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste jogo, foram aplicados e aprofundados conhecimentos de:
